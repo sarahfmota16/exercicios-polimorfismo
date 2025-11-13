@@ -1,0 +1,10 @@
+.vs/
+x64/
+*.exe
+*.obj
+*.o
+*.log
+*.user
+*.suo
+*.ipch
+*.pdb
